@@ -4,7 +4,6 @@ import json
 # 服务器用数据库来实现删除查询，客户端用列表进行操作
 # 数据如何链接
 # 服务器端用json格式， 客户端把json转换成列表进行操作
-#
 app = flask.Flask(__name__)
 
 
